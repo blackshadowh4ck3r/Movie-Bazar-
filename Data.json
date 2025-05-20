@@ -1,0 +1,20 @@
+[
+  {
+    "image": "https://via.placeholder.com/600x300.png?text=पोस्ट+1",
+    "title": "पोस्ट नंबर 1",
+    "description": "यह पोस्ट नंबर 1 का विवरण है। इसमें महत्वपूर्ण जानकारी शामिल है।",
+    "download": "https://example.com/file1.zip"
+  },
+  {
+    "image": "https://via.placeholder.com/600x300.png?text=पोस्ट+2",
+    "title": "पोस्ट नंबर 2",
+    "description": "यह पोस्ट नंबर 2 है जिसमें कुछ और जानकारी दी गई है।",
+    "download": "https://example.com/file2.zip"
+  },
+  {
+    "image": "https://via.placeholder.com/600x300.png?text=पोस्ट+3",
+    "title": "पोस्ट नंबर 3",
+    "description": "यह तीसरी पोस्ट है जो और भी उपयोगी जानकारी देती है।",
+    "download": "https://example.com/file3.zip"
+  }
+]
